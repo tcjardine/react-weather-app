@@ -10,6 +10,7 @@ export default function App() {
         <a
           href="https://steady-stroopwafel-59b96d.netlify.app/index.html"
           target="_blank"
+          rel="noreferrer"
         >
           Tracy Jardine
         </a>{" "}
@@ -17,6 +18,7 @@ export default function App() {
         <a
           href="https://github.com/tcjardine/react-weather-app"
           target="_blank"
+          rel="noreferrer"
         >
           opened-sourced
         </a>
