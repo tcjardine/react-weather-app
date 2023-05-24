@@ -28,10 +28,10 @@
 .Weather .temperature {
   font-weight: 400;
   color: gray;
-  font-size: 50px;
+  font-size: 55px;
 }
-.Weather img {
-  height: 64px;
+.Weather canvas {
+  margin-top: 5px;
   margin-right: 10px;
   display: inline-block;
 }
