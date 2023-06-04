@@ -3,6 +3,26 @@
   margin: 30px auto;
 }
 .App footer {
+  color: aliceblue;
   font-size: 12px;
   margin: 10px auto;
+}
+.link {
+  font-size: 15px;
+  color: rgb(123, 240, 224);
+  text-decoration: none;
+}
+.link:hover {
+  color: rgb(0, 0, 0);
+  background-color: rgb(151, 230, 233);
+  transition-duration: 0.3s;
+  transition-timing-function: ease-out;
+  box-shadow: 10px 2px rgba(215, 241, 163, 0.651);
+  border-radius: 40%;
+}
+body {
+  background-image: url("./bg-reach-app.jpg");
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: auto;
 }
